@@ -36,5 +36,5 @@ Johana Vanessa ACOSTA -
 Fernando Daniel ANDREOLI - En lo personal me considero bastante proactivo, tengo las habilidades blandas muy pulidas por mi trabajo actual. Con respecto a las habilidades técnicas, sigo adquiriendo conocimiento.
 Marianela Jenifer CRESPIN -  
 Ricardo Alberto MOLINA - 
-Cristian Andrés VACA -
+Cristian Andrés VACA - Es mi primer proyecto en equipo en Github, espero pulir mis habilidades blandas y tecnicas para adquirir conocimiento de la plataforma y sus funcionalidades.
 
