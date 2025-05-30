@@ -31,10 +31,9 @@ Administradores del sistema que gestionan el catálogo de productos.
 
 👤 Integrantes del Equipo:
 
-Giuliana Mickaela ACEVEDO -  
-Johana Vanessa ACOSTA -  
-Fernando Daniel ANDREOLI - En lo personal me considero bastante proactivo, tengo las habilidades blandas muy pulidas por mi trabajo actual. Con respecto a las habilidades técnicas, sigo adquiriendo conocimiento.
-Marianela Jenifer CRESPIN -  
-Ricardo Alberto MOLINA - 
-Cristian Andrés VACA -
-
+| Nombre | Rol en el Proyecto | Presentación |
+|------|-----|-----|
+| Johana Vanessa ACOSTA | Frontend |  |
+| Fernando Daniel ANDREOLI | PM | En lo personal me considero bastante proactivo, tengo las habilidades blandas muy pulidas por mi trabajo actual. Con respecto a las habilidades técnicas, sigo adquiriendo conocimiento. |
+| Ricardo Alberto MOLINA | Backend |  |
+| Cristian Andrés VACA | UX/UI |  |
