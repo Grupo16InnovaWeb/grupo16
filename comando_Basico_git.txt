@@ -1,0 +1,13 @@
+COMANDOS BÁSICOS
+
+* git add    : prepara los archivos que quieres guardar en tu proyecto, antes de hacer el guardado definitivo.
+* git rm     : borrar un archivo de tu proyecto y decirle a Git que registre ese cambio para la próxima versión.
+* git commit : guardar definitivamente los cambios que preparaste con git add, creando una versión nueva de tu proyecto con una descripción (mensaje) de lo que hiciste.
+* git push   : subir tus cambios guardados (commits) a Internet (por ejemplo, a GitHub o GitLab) para que tu equipo los vea o los use.
+* git pull   : bajar los últimos cambios de Internet (ej: GitHub) y fusionarlos con tu código local para mantener todo actualizado.
+* git log    : historial de cambios de tu proyecto: muestra todos los commits (guardados) ordenados del más reciente al más antiguo, con su autor, fecha y mensaje.
+* git status : muestra qué archivos han cambiado, cuáles están listos para guardarse (git add) y cuáles no están siendo rastreados.
+* git clone  : bajar una copia completa de un proyecto de Internet (ej: GitHub, GitLab) a tu computadora, incluyendo todo su historial de cambios.
+* git revert : deshacer un cambio específico del historial de tu proyecto, pero sin borrar el pasado: crea un nuevo commit que invierte los cambios de un commit anterior.
+* git diff   : ver las diferencias línea por línea entre los cambios actuales y el último commit, o entre cualquier versión de tu código.
+

@@ -35,6 +35,10 @@ Giuliana Mickaela ACEVEDO -
 Johana Vanessa ACOSTA -  
 Fernando Daniel ANDREOLI - En lo personal me considero bastante proactivo, tengo las habilidades blandas muy pulidas por mi trabajo actual. Con respecto a las habilidades técnicas, sigo adquiriendo conocimiento.
 Marianela Jenifer CRESPIN -  
-Ricardo Alberto MOLINA - 
+
+Ricardo Alberto MOLINA - # 🚀 Sobre mí  
+
+Tengo conocimientos básicos en **programación (Python, Java, HTML, CSS y JavaScript)**, aprendiendo rápido y aplicándolo en proyectos web. Me destaco por mi **capacidad de trabajar en equipo**, adaptabilidad y comunicación clara. Soy autodidacta, apasionado por la lectura y enfocado en crecer profesionalmente, combinando lógica técnica con creatividad y disciplina.  
+
 Cristian Andrés VACA -
 
