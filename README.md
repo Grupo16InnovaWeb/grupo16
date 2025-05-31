@@ -32,7 +32,7 @@ Administradores del sistema que gestionan el catálogo de productos.
 👤 Integrantes del Equipo:
 
 Giuliana Mickaela ACEVEDO -  
-Johana Vanessa ACOSTA -  
+Johana Vanessa ACOSTA - Ahora combino mi pasión por la comunicación con el desafío de aprender a programar y crear con código.
 Fernando Daniel ANDREOLI - En lo personal me considero bastante proactivo, tengo las habilidades blandas muy pulidas por mi trabajo actual. Con respecto a las habilidades técnicas, sigo adquiriendo conocimiento.
 Marianela Jenifer CRESPIN -  
 Ricardo Alberto MOLINA - 
