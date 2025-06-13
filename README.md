@@ -34,6 +34,7 @@ Administradores del sistema que gestionan el catálogo de productos.
 Giuliana Mickaela ACEVEDO -  
 Johana Vanessa ACOSTA -  
 Fernando Daniel ANDREOLI - En lo personal me considero bastante proactivo, tengo las habilidades blandas muy pulidas por mi trabajo actual. Con respecto a las habilidades técnicas, sigo adquiriendo conocimiento.
+
 Marianela Jenifer CRESPIN - Este es mi primer proyecto en GitHub, estoy aprendiendo a usar la plataforma y espero profundizar mis conocimientos. Deseo aprender mucho mas sobre el trabajo colaborativo y reforzar mis habilidades blandas y técnicas.  
 Ricardo Alberto MOLINA - 
 Cristian Andrés VACA -
