@@ -1,0 +1,1 @@
+- git init: inicializa un repositorio\n- git status: muestra el estado\n- git add: agrega archivos al área de staging
