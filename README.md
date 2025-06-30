@@ -39,3 +39,6 @@ Marianela Jenifer CRESPIN - Este es mi primer proyecto en GitHub, estoy aprendie
 Ricardo Alberto MOLINA - 
 Cristian Andrés VACA -
 
+# Proyecto INNOVAWEB
+Este es un proyecto de ejemplo para practicar conflictos en Git.
+Cambio inicial por Marianela.
